@@ -4,6 +4,7 @@
 Pascal Triangle Model
 """
 
+
 def CofBinom(n, k):
     """
     Binomial coefficient
